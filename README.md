@@ -32,4 +32,5 @@
 - Real-world dataset analysis
 
 📫 Reach me on LinkedIn:
-https://www.linkedin.com/in/mustafa-samet-zengin
+[https://www.linkedin.com/in/mustafa-samet-zengin](https://www.linkedin.com/in/mustafa-samet-zengin-90532936a/)
+
