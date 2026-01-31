@@ -2,17 +2,18 @@
 
 🎓 Computer Engineering student at Düzce University  
 🤖 Interested in Machine Learning, Data Science and AI  
-🐍 Python-focused, learning by building real projects
+🐍 Learning by building real-world projects with Python
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 - **Heart Attack Risk Prediction**
-  - Machine learning & ANN-based risk prediction using real medical data
-  - Technologies: Python, Scikit-learn, TensorFlow, SMOTE  
-  - 👉 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/1-HeartAttackRiskPrediction)
+  - Machine learning project using real medical data
+  - ANN model with SMOTE and data preprocessing
+  - Technologies: Python, Scikit-learn, TensorFlow  
+  🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/1-HeartAttackRiskPrediction)
 
-(More projects coming...)
+(More projects coming soon...)
 
 ---
 
@@ -21,16 +22,15 @@
 - NumPy, Pandas
 - Scikit-learn
 - TensorFlow / Keras
-- Data Preprocessing & Feature Engineering
-- Basic Machine Learning Models
+- Machine Learning Basics
+- Data Preprocessing
 
 ---
 
-## 📌 Currently Learning
+## 📚 Currently Learning
 - Model evaluation & optimization
-- Deep Learning basics
-- Real-world dataset analysis
+- Deep learning fundamentals
+- Working with real-world datasets
 
-📫 Reach me on LinkedIn:
-[https://www.linkedin.com/in/mustafa-samet-zengin](https://www.linkedin.com/in/mustafa-samet-zengin-90532936a/)
-
+📫 **Connect with me:**  
+LinkedIn → https://www.linkedin.com/in/mustafa-samet-zengin
