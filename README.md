@@ -38,5 +38,4 @@
 - Working with real-world datasets
 
 📫 **Connect with me:**  
-LinkedIn → https://www.linkedin.com/in/mustafa-samet-zengin
-
+LinkedIn → [https://www.linkedin.com/in/mustafa-samet-zengin](https://www.linkedin.com/in/mustafa-samet-zengin-90532936a/)
