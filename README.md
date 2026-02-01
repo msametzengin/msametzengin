@@ -13,8 +13,13 @@
   - Technologies: Python, Scikit-learn, TensorFlow  
   🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/1-HeartAttackRiskPrediction)
 
-(More projects coming soon...)
+- **Blood Pressure Risk Analysis with KMeans**
+  - Unsupervised learning based blood pressure risk analysis
+  - KMeans clustering on morning and evening measurements
+  - Technologies: Python, Pandas, Scikit-learn  
+  🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/2-BloodPressureRiskAnalysis)
 
+(More projects coming soon...)
 ---
 
 ## 🛠️ Skills
@@ -34,3 +39,4 @@
 
 📫 **Connect with me:**  
 LinkedIn → https://www.linkedin.com/in/mustafa-samet-zengin
+
