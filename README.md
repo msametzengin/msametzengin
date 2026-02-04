@@ -22,11 +22,18 @@ AI-powered corporate chatbot with Flask & Google Gemini API
 
 ## 🛠️ Tech Stack
 
-🐍 Python • 📊 Pandas • 🔢 NumPy  
+**Python** • 📊 Pandas • 🔢 NumPy  
 🤖 Scikit-learn • 🧠 TensorFlow / Keras  
 🌐 Flask • 🧩 Machine Learning Basics  
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msametzengin&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msametzengin&layout=compact)
 
 ---
 
 📫 **Connect with me**  
 🔗 LinkedIn: https://www.linkedin.com/in/mustafa-samet-zengin
+
