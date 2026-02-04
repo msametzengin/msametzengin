@@ -26,13 +26,10 @@ AI-powered corporate chatbot with Flask & Google Gemini API
 🤖 Scikit-learn • 🧠 TensorFlow / Keras  
 🌐 Flask • 🧩 Machine Learning Basics  
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msametzengin&show_icons=true)
-
 ---
 
 📫 **Connect with me**  
 🔗 LinkedIn: https://www.linkedin.com/in/mustafa-samet-zengin
+
 
 
