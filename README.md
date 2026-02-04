@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering student at Düzce University  
 🤖 Interested in Machine Learning & AI  
-🐍 Learning by building real-world projects with Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Learning by building real-world projects with Python  
 
 ---
 
@@ -27,6 +27,7 @@ AI-powered corporate chatbot with Flask & Google Gemini API
 
 📫 **Connect with me**  
 🔗 LinkedIn: https://www.linkedin.com/in/mustafa-samet-zengin
+
 
 
 
