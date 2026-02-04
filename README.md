@@ -28,12 +28,11 @@ AI-powered corporate chatbot with Flask & Google Gemini API
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msametzengin&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msametzengin&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msametzengin&show_icons=true)
 
 ---
 
 📫 **Connect with me**  
 🔗 LinkedIn: https://www.linkedin.com/in/mustafa-samet-zengin
+
 
