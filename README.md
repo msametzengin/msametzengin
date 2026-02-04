@@ -13,11 +13,11 @@
   - Technologies: Python, Scikit-learn, TensorFlow  
   🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/1-HeartAttackRiskPrediction)
 
-- **Blood Pressure Risk Analysis with KMeans**
-  - Unsupervised learning based blood pressure risk analysis
-  - KMeans clustering on morning and evening measurements
-  - Technologies: Python, Pandas, Scikit-learn  
-  🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/2-BloodPressureRiskAnalysis)
+- **Zengin Chat – AI Powered Business Chatbot**
+  - AI-powered corporate chatbot built with Flask and Google Gemini API.  
+  - Focused on prompt engineering and real-world business scenarios.
+  - Technologies: Python, Flask, Google Gemini API, HTML, CSS  
+  🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/3-AIAssistantBot)
 
 (More projects coming soon...)
 ---
@@ -39,3 +39,4 @@
 
 📫 **Connect with me:**  
 LinkedIn → [https://www.linkedin.com/in/mustafa-samet-zengin](https://www.linkedin.com/in/mustafa-samet-zengin-90532936a/)
+
