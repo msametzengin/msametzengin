@@ -18,6 +18,8 @@ AI-powered corporate chatbot with Flask & Google Gemini API
 **Tech:** Python, Flask, Gemini API  
 🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/3-AIAssistantBot)
 
+[For more](https://github.com/msametzengin/machine-learning-projects/)
+ 
 ---
 
 ### 🛠️ Technologies
@@ -27,6 +29,7 @@ AI-powered corporate chatbot with Flask & Google Gemini API
 
 📫 **Connect with me**  
 🔗 LinkedIn: https://www.linkedin.com/in/mustafa-samet-zengin
+
 
 
 
