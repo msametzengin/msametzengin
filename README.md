@@ -13,10 +13,10 @@ ML-based heart disease risk analysis using real medical data
 **Tech:** Python, Scikit-learn, TensorFlow  
 🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/1-HeartAttackRiskPrediction)
 
-🔹 **Zengin Chat – AI Business Chatbot**  
-AI-powered corporate chatbot with Flask & Google Gemini API  
-**Tech:** Python, Flask, Gemini API  
-🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/3-AIAssistantBot)
+🔹 **Earthquake Data Analysis & Interactive Mapping (Turkey)**  
+Real-time earthquake data analysis using USGS API with statistical visualization and interactive mapping  
+**Tech:** Python, Requests, Pandas, Matplotlib, Seaborn, Folium  
+🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/turkey-earthquake-analysis)
 
 [For more](https://github.com/msametzengin/machine-learning-projects/)
  
@@ -29,6 +29,7 @@ AI-powered corporate chatbot with Flask & Google Gemini API
 
 📫 **Connect with me**  
 🔗 LinkedIn: https://www.linkedin.com/in/mustafa-samet-zengin
+
 
 
 
