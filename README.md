@@ -11,14 +11,14 @@
 🔹 **Heart Attack Risk Prediction**  
 ML-based heart disease risk analysis using real medical data  
 **Tech:** Python, Scikit-learn, TensorFlow  
-🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/1-HeartAttackRiskPrediction)
+🔗 [View Project](https://github.com/msametzengin/data-science-projects/tree/main/1-HeartAttackRiskPrediction)
 
 🔹 **Earthquake Data Analysis & Interactive Mapping (Turkey)**  
 Real-time earthquake data analysis using USGS API with statistical visualization and interactive mapping  
 **Tech:** Python, Requests, Pandas, Matplotlib, Seaborn, Folium  
-🔗 [View Project](https://github.com/msametzengin/machine-learning-projects/tree/main/turkey-earthquake-analysis)
+🔗 [View Project](https://github.com/msametzengin/data-science-projects/tree/main/turkey-earthquake-analysis)
 
-[For more](https://github.com/msametzengin/machine-learning-projects/)
+[For more](https://github.com/msametzengin/data-science-projects/)
  
 ---
 
@@ -29,6 +29,7 @@ Real-time earthquake data analysis using USGS API with statistical visualization
 
 📫 **Connect with me**  
 🔗 LinkedIn: https://www.linkedin.com/in/mustafa-samet-zengin
+
 
 
 
