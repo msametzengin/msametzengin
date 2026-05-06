@@ -1,7 +1,7 @@
 ## Hi, I'm Mustafa Samet Zengin
 
 Computer Engineering student at Düzce University  
-Interested in Machine Learning & AI  
+Interested in Data Analysis and Machine Learning  
 
 ---
 
