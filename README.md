@@ -20,11 +20,6 @@ Python, Scikit-learn, TensorFlow
  
 ---
 
-## Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-
----
-
 **Connect with me**  
 LinkedIn: https://www.linkedin.com/in/mustafa-samet-zengin
 Gmail: msamet.zengin@gmail.com
