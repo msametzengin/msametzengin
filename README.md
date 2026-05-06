@@ -6,7 +6,6 @@ Interested in Machine Learning & AI
 ---
 
 ## Featured Projects
-
 **Earthquake Data Analysis & Interactive Mapping (Turkey)**  
 Real-time earthquake data analysis using USGS API with statistical visualization and interactive mapping  
 Python, Requests, Pandas, Matplotlib, Seaborn, Folium  
