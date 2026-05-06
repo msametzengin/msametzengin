@@ -21,8 +21,8 @@ Python, Scikit-learn, TensorFlow
 ---
 
 **Connect with me**  
-LinkedIn: https://www.linkedin.com/in/mustafa-samet-zengin
 
+LinkedIn: https://www.linkedin.com/in/mustafa-samet-zengin  
 Gmail: msamet.zengin@gmail.com
 
 
