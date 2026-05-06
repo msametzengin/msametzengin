@@ -12,7 +12,7 @@ Real-time earthquake data analysis using USGS API with statistical visualization
 Python, Requests, Pandas, Matplotlib, Seaborn, Folium  
 🔗 [View Project](https://github.com/msametzengin/data-science-projects/tree/main/turkey-earthquake-analysis)
 
-** Heart Attack Risk Prediction**  
+**Heart Attack Risk Prediction**  
 ML-based heart disease risk analysis using real medical data  
 Python, Scikit-learn, TensorFlow  
 🔗 [View Project](https://github.com/msametzengin/data-science-projects/tree/main/1-HeartAttackRiskPrediction)
