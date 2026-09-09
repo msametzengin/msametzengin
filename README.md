@@ -1,32 +1,43 @@
 ## Hi, I'm Mustafa Samet Zengin
 
-Computer Engineering student at Düzce University  
-Interested in Data Analysis, Machine Learning, and Web Development  
+Final-year Computer Engineering student at Düzce University.  
+Interested in data-driven web applications, data analysis, and machine learning.
 
 ---
 
 ## Featured Projects
 
-**Market Barcode Image Finder Web System**  
-Web-based product barcode and image matching system developed during my internship.  
-The application supports Excel upload, MySQL database storage, product image search from multiple sources, manual image approval, dashboard tracking, logs, and Excel export.  
-Next.js, TypeScript, Tailwind CSS, MySQL, Prisma ORM  
-[View Project](https://github.com/msametzengin/barcode-image-finder)
+### Production Analytics and Monitoring System
 
-**Earthquake Data Analysis & Interactive Mapping (Turkey)**  
-Real-time earthquake data analysis using USGS API with statistical visualization and interactive mapping.  
-Python, Requests, Pandas, Matplotlib, Seaborn, Folium  
-[View Project](https://github.com/msametzengin/data-science-projects/tree/main/turkey-earthquake-analysis)
+Web-based production tracking and decision-support system developed during my internship.
 
-[For more projects](https://github.com/msametzengin/data-science-projects/)
+The application supports facility, product, shift, production target, and downtime management. It also includes Excel import/export, operational dashboards, moving averages, target forecasting, downtime Pareto analysis, IQR-based anomaly detection, and estimated production loss analysis.
+
+All production data shown in the project was synthetically generated for development and testing purposes.
+
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, MySQL, Prisma ORM, Python, Pandas, Recharts, ExcelJS
+
+[View Project](https://github.com/msametzengin/production-monitoring-system)
 
 ---
 
-## Connect with me
+### Market Barcode Image Finder Web System
 
-LinkedIn: [Mustafa Samet Zengin](https://linkedin.com/in/mustafa-samet-zengin-90532936a/en/)  
-Gmail: msamet.zengin@gmail.com
+Web-based product barcode and image matching system developed during my internship.
 
+The application supports Excel upload, MySQL database storage, product image search from multiple sources, manual image approval, dashboard tracking, logs, and Excel export.
 
+**Technologies:** Next.js, TypeScript, Tailwind CSS, MySQL, Prisma ORM
 
+[View Project](https://github.com/msametzengin/barcode-image-finder)
 
+---
+
+[View more data analysis projects](https://github.com/msametzengin/data-science-projects/)
+
+---
+
+## Connect with Me
+
+- [LinkedIn – Mustafa Samet Zengin](https://linkedin.com/in/mustafa-samet-zengin-90532936a/en/)
+- Email: msamet.zengin@gmail.com
